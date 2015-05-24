@@ -17,7 +17,7 @@ Our purpose at the Javascript Workshops is to:
 
 Here's [the agenda the we follow](roles/organizer.md).
 
-# Things we do here
+# Meet the Crew
 
 Want to help us out?  Read [this](docs/volunteering) first.  Then take a gander at the links below.  If you're ready to jump in, add your name to the [signup sheet](TODO).
 
