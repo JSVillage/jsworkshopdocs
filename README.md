@@ -15,13 +15,15 @@ Our purpose at the Javascript Workshops is to:
 
 # General Format
 
-Here's [the agenda the we follow](roles/organizer.md).
+Here's [the agenda we follow](roles/organizer.md).
 
 # Meet the Crew
 
-Want to help us out?  Read [this](docs/volunteering) first.  Then take a gander at the links below.  If you're ready to jump in, add your name to the [signup sheet](TODO).
+Want to help us out?  Read [this](docs/volunteering.md) first.  Then take a gander at the links below.  If you're ready to jump in, add your name to the [signup sheet](TODO).
 
 [Keeper of Time](roles/time.md)
+
+[Keeper of Flags](roles/flags.md)
 
 [Painter of Pixels](roles/painter.md)
 
@@ -50,3 +52,24 @@ Scouter of Hackathons
 The main goal of putting these docs on GitHub is to foster active collaboration on our format.  If someone has a desire to change or to do something new, submit a pull request!
 
 Here is [our process](roles/elder.md) for reviewing pull requests.
+
+
+# TODO
+
+  * What should roles signup sheet look like?
+  * What should Subject Matter Expert signup sheet look like?
+  * Conflict resolution
+  * Validated Learning
+  * Group process
+    * Yes, And
+    * Train for hackathon
+      * Exercise
+      * Lecture
+    * Project
+  * Peer Review Process
+    * technical
+    * interpersonal
+  * Self Review Process
+    * strengths
+    * accomplishments
+    * aspirations
