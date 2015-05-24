@@ -22,16 +22,27 @@ Here's [the agenda the we follow](roles/organizer.md).
 Want to help us out?  Read [this](docs/volunteering) first.  Then take a gander of the links below.  Then check the [signup sheet](TODO).
 
 [Keeper of Time](roles/time.md)
+
 [Painter of Pixels](roles/painter.md)
+
 [Carrier Pigeon](roles/pigeon.md)
+
 [Bringer of Scrolls]()
+
 [Boring Official](roles/organizer.md)
+
 Bringer of Swag
+
 Bringer of Pizza
+
 Bringer of Experts
+
 Subject Matter Expert
+
 [Elder Council](roles/elder.md) (Reviews Pull Requests)
+
 Scouter of Hackathons
+
 [Nomadic Wizard](roles/nomad.md)
 
 # Contributing
