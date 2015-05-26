@@ -15,9 +15,9 @@ Our purpose at the Javascript Workshops is to:
 
 We meet on the first Wednesday of every month, at 7 PM at the Burton Barr Library in central Phoenix, Arizona.  We're on the fourth floor in the Mach 1 Room.
 
-[Meetup](www.meetup.com/Phoenix-JavaScript/)
+[We're on Meetup!](www.meetup.com/Phoenix-JavaScript/)
 
-[Website](http://phoenixjavascript.org/)
+[And we have a website!](http://phoenixjavascript.org/)
 
 # General Format
 
