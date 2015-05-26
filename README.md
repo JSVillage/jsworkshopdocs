@@ -11,9 +11,17 @@ Our purpose at the Javascript Workshops is to:
  * Grow from feedback and mentorship
  * Prepare for hackathons and employment
 
-## You should read: [How things work around here.](docs/code.md)
+# Time / Place
+
+We meet on the first Wednesday of every month, at 7 PM at the Burton Barr Library in central Phoenix, Arizona.  We're on the fourth floor in the Mach 1 Room.
+
+[Meetup](www.meetup.com/Phoenix-JavaScript/)
+
+[Website](http://phoenixjavascript.org/)
 
 # General Format
+
+### You should read: [How things work around here.](docs/code.md)
 
 Here's [the agenda we follow](roles/organizer.md).
 
