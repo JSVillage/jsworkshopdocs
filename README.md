@@ -65,7 +65,6 @@ Here is [our process](roles/elder.md) for reviewing pull requests.
 # TODO
 
   * What should roles signup sheet look like?
-  * What should Subject Matter Expert signup sheet look like?
   * Conflict resolution
   * Validated Learning
   * Group process
