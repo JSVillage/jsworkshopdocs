@@ -12,7 +12,7 @@ We value:
 
 # Format
 
-There are two formats that you can prepare materials for:
+There are two formats that you can prepare materials for: Lightning Talk and Workshop.
 
 ## Lightning Talk
 
@@ -40,4 +40,14 @@ It's helpful to print out instructions for the group.  Groups are normally 5-10 
 
 ## Conclusions
 
-We'd love to have you do both a talk and a workshop.  But rather than enforce a rigid format, we'll let you decide the best way to teach your material.  Good luck, and feel free to contact us, or reach out on the mailing list if you have questions!
+We'd love to have you do both a talk and a workshop, but it's up to you!  Good luck, and feel free to contact us, or reach out on the mailing list if you have questions!
+
+# Sign Up!
+
+If you'd like to do a lightning talk or workshop, please [sign up here](https://docs.google.com/a/torchlightsoftware.com/forms/d/181SBBIK4EZbgmujdPP0LuqZbEvHwHhEQxFtSM-r3GmM/viewform).
+
+We have a limit of 6 lightning talks per month.  We'll get in touch and let you know when we have a date locked in for you.  If someone else cancels, we may offer you a sooner slot, so it pays to have your materials ready!
+
+There's no limits on the workshops, but please sign up anyway, so we can announce your topic to the group!
+
+Thanks for your contributions!  Get in touch if you have ideas for how we can improve!
