@@ -7,18 +7,21 @@ Let people network and grab pizza until 7:10.
 ```speech
 Welcome to the Javascript Workshop!  Thanks for coming.  If you haven’t already, please help yourself to some pizza.
 
+Just to give a brief overview for those of you who haven't attended before, we'll be starting out with some lightning talks on various subjects, and after that you'll be free to hack on projects or learning exercises.  Many of the presenters will have follow up material to their talks, so you'll have a chance to dig in and try things for yourself.
+
 Thanks to our sponsors:
   []
 
-We're going to get started shortly with lightning talks.  If you're a presenter, please have your laptop ready near the projector.
+We're going to get started shortly with lightning talks.  Make your way over to the projector screen and gather round.  If you're a presenter, please come to the front and have your laptop ready.
 ```
 
 ## Lightning Talks (7:15 PM)
 
-Refer to signup sheet for a list of presenters.  Talks are 5 minutes a piece - no more.  [Timer](time.md) should keep them honest.
+Refer to signup sheet for a list of presenters.  Talks are 5 minutes a piece - no more.  The [Keeper of Time](time.md) is responsible for holding them accountable.  Only 6 slots are available, so if more people want to present, they'll have to wait for the next meetup.
 
-
-
+```
+Alright, let's get started.  Talks are 5 minutes a piece, and we have [6] talks.  Our first presenter will be ______.  When you're finished with your talk, if you have a follow up exercise please see our Keeper of Flags.
+```
 
 Take a flag of your choice from the table.
 Introduce your topic.

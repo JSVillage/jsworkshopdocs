@@ -35,11 +35,11 @@ Want to help us out?  Read [this](docs/volunteering.md) first.  Then take a gand
 
 Bringer of Swag
 
-Bringer of Pizza
+[Bringer of Pizza](roles/pizza.md)
 
 Bringer of Experts
 
-Subject Matter Expert
+[Subject Matter Expert](roles/expert.md)
 
 [Elder Council](roles/elder.md) (Reviews Pull Requests)
 
