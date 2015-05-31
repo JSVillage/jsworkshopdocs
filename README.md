@@ -35,7 +35,7 @@ Want to help us out?  Read [this](docs/volunteering.md) first.  Then take a gand
 
 [Painter of Pixels](roles/painter.md)
 
-[Carrier Pigeon](roles/pigeon.md)
+[Social Media Butterfly](roles/social.md)
 
 [Bringer of Scrolls]()
 
