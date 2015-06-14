@@ -19,6 +19,8 @@ We meet on the first Wednesday of every month, at 7 PM at the Burton Barr Librar
 
 [And we have a website!](http://phoenixjavascript.org/)
 
+[You can find lots of resources here!](http://phoenixjavascript.org/resources.html)
+
 ### [Upcoming Hackathons](http://hackweekends.com/phoenix-az-us)
 
 # General Format
