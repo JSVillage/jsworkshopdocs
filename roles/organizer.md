@@ -1,3 +1,7 @@
+# Boring Official
+
+The Boring Official's job is to guide the session, introduce speakers, and lead general discussions.  Following is the agenda for our meetups.
+
 ## Doors open (7:00 PM)
 
 Let people network and grab pizza until 7:10.
@@ -57,6 +61,6 @@ Can I get everyone’s attention?  Let’s get back together for a debriefing.
 Anything you learned that you’d like to share with the group?
 Please see mailing list and feedback form at http://phoenixjavascript.org/resources.html
 
-Breakdown
+## Breakdown
 
 Please put chairs, tables and other resources back where you found them.  The library closes in 10 minutes, so let’s be out before then.  Feel free to continue the conversation outside the library when we’re done.

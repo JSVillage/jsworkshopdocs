@@ -2,7 +2,7 @@
 
 These docs describe the format and operations of the Javascript Workshops.  Members should consult them for guides on how to collaborate and how to contribute.
 
-We accept [pull requests](#Contributing)!
+We accept [pull requests](#contributing)!
 
 # Purpose
 
@@ -19,11 +19,19 @@ We meet on the first Wednesday of every month, at 7 PM at the Burton Barr Librar
 
 [And we have a website!](http://phoenixjavascript.org/)
 
+### [Upcoming Hackathons](docs/hackathons.md)
+
 # General Format
 
 ### You should read: [How things work around here.](docs/code.md)
 
 Here's [the agenda we follow](roles/organizer.md).
+
+# Group Guides
+
+[Project Group](docs/project.md)
+
+[Discussion Group](docs/discussion.md)
 
 # Meet the Crew
 
@@ -47,7 +55,7 @@ Bringer of Swag
 
 Bringer of Experts
 
-[Subject Matter Expert](roles/expert.md)
+[Subject Matter Expert](roles/expert.md) (Speaker / Workshop Leader)
 
 [Elder Council](roles/elder.md) (Reviews Pull Requests)
 

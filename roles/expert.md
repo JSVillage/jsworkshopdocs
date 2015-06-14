@@ -16,7 +16,7 @@ There are two formats that you can prepare materials for: Lightning Talk and Wor
 
 ## Lightning Talk
 
-This is a five minute talk.  The goal is to get people excited about your topic!  You might consider some variation on the "start with the why" format:
+This is a five minute talk.  The goal is to get people excited about your topic!  You might consider some variation on the [start with the why (video)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en) format:
 
   1. Why is this topic important?
   2. How are you going to go about educating us?
