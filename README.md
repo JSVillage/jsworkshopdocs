@@ -21,7 +21,7 @@ We meet on the first Wednesday of every month, at 7 PM at the Burton Barr Librar
 
 [You can find lots of resources here!](https://github.com/JSVillage/jsworkshopdocs/wiki/resources)
 
-### [Upcoming Hackathons](http://hackweekends.com/phoenix-az-us)
+### [Upcoming Hackathons](https://github.com/JSVillage/jsworkshopdocs/wiki/Hackathons-Creator-Events)
 
 # General Format
 
